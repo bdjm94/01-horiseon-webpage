@@ -20,11 +20,11 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-.header div {
+.nav-bar {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.li {
     display: inline-block;
     margin-left: 25px;
 }
