@@ -126,7 +126,7 @@ Div element was used for the footer.
         </p>
     </footer>
 ```
-Div element replace by a footer element as this defines the footer for the document.
+Div element is replaced by a footer element as this defines the footer for the document.
 ## Usage
 In full application with the refactoring of the code, the webpage keeps the structure and theme of the original code, but now has the semantic HTML elements in place. See below for screenshot of the webpage and page source
 ![Horiseon-Webpage](assets\images\Horiseon-webpage.png)
