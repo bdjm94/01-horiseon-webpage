@@ -15,7 +15,7 @@ The purpose of this project was to **refactor** the existing code within the HTM
 
 The following image shows the structure and elements of a Semantic HTML webpage:
 
-![Semantic HTML webpage structure and elements](assets\images\semantic-html.jpg)
+![Semantic HTML webpage structure and elements](./assets/images/semantic-html.jpg)
 
 In order to follow this structure, the original code of the HTML had to be refactored. Below are a few of the steps taken.
 
@@ -129,12 +129,12 @@ Div element was used for the footer.
 Div element is replaced by a footer element as this defines the footer for the document.
 ## Usage
 In full application with the refactoring of the code, the webpage keeps the structure and theme of the original code, but now has the semantic HTML elements in place. See below for screenshot of the webpage and page source
-![Horiseon-Webpage](assets\images\Horiseon-webpage.png)
-![Horiseon-page-source](assets\images\horiseon-page-source.gif)
+![Horiseon-Webpage](./assets/images/Horiseon-webpage.png)
+![Horiseon-page-source](./assets/images/horiseon-page-source.gif)
 The hyperlinks in the navigation bar are now fully functional and take you to the correct location on the webpage.
-![Horiseon-hyperlink-check](assets\images\hyperlink-check.gif)\
+![Horiseon-hyperlink-check](./assets/images/hyperlink-check.gif)
 Lastly, you can see the accessibility features in use, which is depicted by the alt text displaying when the image fails to load.
-![Working-alt-text](assets\images\alt-text.png)
+![Working-alt-text](./assets/images/alt-text.png)
 ## Credits
 - [Horiseon Webpage](https://bdjm94.github.io/horiseon-webpage/)
 - [GitHub Repository](https://github.com/bdjm94/horiseon-webpage.git)
