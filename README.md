@@ -136,7 +136,7 @@ The hyperlinks in the navigation bar are now fully functional and take you to th
 Lastly, you can see the accessibility features in use, which is depicted by the alt text displaying when the image fails to load.
 ![Working-alt-text](./assets/images/alt-text.png)
 ## Credits
-- [Horiseon Webpage](https://bdjm94.github.io/horiseon-webpage/)
+- [Horiseon Webpage](https://bdjm94.github.io/01-horiseon-webpage/)
 - [GitHub Repository](https://github.com/bdjm94/horiseon-webpage.git)
 - [Understanding Semantic HTML Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Understanding alt attributes](https://www.w3.org/TR/WCAG20-TECHS/H37.html)
